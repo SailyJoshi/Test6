@@ -1,4 +1,4 @@
-I've modified this file..hihihii
+﻿I've modified this file..
 VERSION 5.00
 Begin VB.Form Form1 
    Caption         =   "Form1"
