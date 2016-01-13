@@ -75,7 +75,7 @@ Private Sub Picture1_Click()
 MsgBox "Font change"
 MsgBox "Start"
 Printer.FontName = "Arial"
-Printer.Print " $  zl  ³ zl"
+Printer.Print " $  zl  Â³ zl"
 Printer.Print "Fifa  - The Beautiful Centuary" & vbCrLf & "      " & "( DVD Spo" & "                           " & "1 @" & "         " & "90000.00"
 'Printer.Font
 'Printer.PaintPicture p.Picture, 3250, 182
@@ -86,4 +86,6 @@ MsgBox "Done"
 'Printer.picturepaint ("C:\Documents and Settings\XPMUser\My Documents\My Pictures\Rupee.jpg")
 'Printer.EndDoc
 End Sub
+
+I have modified this file
 
